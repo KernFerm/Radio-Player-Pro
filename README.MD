@@ -1,6 +1,6 @@
 # 🎵 Radio Player Pro
 
-![Radio Player Pro](https://img.shields.io/badge/Radio%20Player%20Pro-v1.0-blue?style=for-the-badge&logo=music)
+![Radio Player Pro](https://img.shields.io/badge/Radio%20Player%20Pro-v1.2-blue?style=for-the-badge&logo=music)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-STRICT-green?style=for-the-badge)
 
