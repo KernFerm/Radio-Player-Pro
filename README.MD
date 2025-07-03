@@ -294,7 +294,7 @@ Radio Player Pro brings the world's radio stations to your fingertips. Whether y
 
 ---
 
-*Developed by TEAMFNB420 | Version 1.0 | 2025*
+*Developed by TEAMFNB420 | Version 1.2 | 2025*
 
 ---
 
