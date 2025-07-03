@@ -2,7 +2,7 @@
 
 ![Radio Player Pro](https://img.shields.io/badge/Radio%20Player%20Pro-v1.0-blue?style=for-the-badge&logo=music)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-STRICT-green?style=for-the-badge)
 
 A modern, user-friendly radio streaming application that lets you listen to thousands of radio stations from around the world. Built with Python and CustomTkinter for a sleek, professional interface.
 
