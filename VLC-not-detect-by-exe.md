@@ -3,4 +3,5 @@ having issues ??
 
 [https://www.videolan.org/vlc/](https://www.videolan.org/vlc/)
 
-if you want to use the `autosetup.exe` it is in `_internal` folder under `setup` you can. 
+- if you want to use the `autosetup.exe` it is in `_internal` folder under `setup` you can. 
+[https://www.fnbubbles420.org/Download/index](https://www.fnbubbles420.org/Download/index)
