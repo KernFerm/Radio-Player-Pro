@@ -274,6 +274,13 @@ When reporting problems, include:
 
 ---
 
+## ***NOTE***
+- if `API` is down radio will `fallback` to `temp` stations. 
+- when `API` is back online everything will return back to normal `FULLY FUNCTIONAL`
+
+
+---
+
 ## 📝 License
 
 This software is provided under the MIT License. See the License menu in the application for full terms.
