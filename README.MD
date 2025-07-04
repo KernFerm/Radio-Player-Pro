@@ -62,8 +62,9 @@ A modern, user-friendly radio streaming application that lets you listen to thou
 ### First Launch
 
 1. **Accept** the User Agreement (covers privacy and usage terms)
-2. **Wait** for the splash screen (2 seconds)
-3. The main application window will appear
+2. **API MESSAGE** if api are online it will display and online message. if api are offline it will display an offline message
+3. **Wait** for the splash screen (2 seconds)
+4. The main application window will appear
 
 ### Main Interface
 
