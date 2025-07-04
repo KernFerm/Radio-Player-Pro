@@ -181,6 +181,7 @@ For security, verify the digital signature of `radio.exe`:
 2. Install VLC Media Player
 3. Restart Radio Player Pro
 4. VLC backend will be automatically detected
+5. Traceback error will appear if you dont have `VLC`
 
 #### ❌ "Stations won't load"
 **Solutions**:
