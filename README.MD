@@ -14,6 +14,16 @@ A modern, user-friendly radio streaming application that lets you listen to thou
 - [System Requirements Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/SystemRequirements.MD)
 - [Installation & Setup Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/Installation_N_Setup.MD)
 
+## 👥 Community
+
+### Join Our Discord
+- **Discord Server**: [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
+- **Features**: 
+  - Get help and support
+  - Share favorite stations
+  - Request new features
+  - Connect with other users
+
 ## 🚀 Quick Start
 
 ### For Windows Users (Recommended)
@@ -143,16 +153,6 @@ A modern, user-friendly radio streaming application that lets you listen to thou
 - **Backup**: Export/import favorites (advanced)
 
 ---
-
-## 👥 Community
-
-### Join Our Discord
-- **Discord Server**: [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
-- **Features**: 
-  - Get help and support
-  - Share favorite stations
-  - Request new features
-  - Connect with other users
 
 ### Contributing
 - Report bugs and issues
