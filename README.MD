@@ -194,6 +194,3 @@ Radio Player Pro brings the world's radio stations to your fingertips. Whether y
 ---
 
 > **Remember**: Always keep the `radio.exe` file together with the `_internal` folder and all other components. The application is designed to work as a complete package!
-
-
-# [Download Radio Player Pro](https://www.fnbubbles420.org/Download/index)
