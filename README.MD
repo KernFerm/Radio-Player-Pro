@@ -8,6 +8,12 @@ A modern, user-friendly radio streaming application that lets you listen to thou
 
 ---
 
+## Document Support
+- [Trouble Shooting Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/TroubleShooting.MD)
+- [Support Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/Support.MD)
+- [System Requirements Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/SystemRequirements.MD)
+- [Installation & Setup Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/Installation_N_Setup.MD)
+
 ## 🚀 Quick Start
 
 ### For Windows Users (Recommended)
@@ -153,11 +159,6 @@ A modern, user-friendly radio streaming application that lets you listen to thou
 - Suggest new features
 - Share station recommendations
 - Help other users
-
-## Document Support
-- [Trouble Shooting Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/TroubleShooting.MD)
-- [Support Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/Support.MD)
-- [System Requirements Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/SystemRequirements.MD)
 
 ---
 
