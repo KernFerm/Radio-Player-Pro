@@ -4,7 +4,7 @@
 
 1. **Check this README** for common solutions
 2. **Join our Discord** for community support
-3. **Check the troubleshooting section** above
+3. **Check the troubleshooting.md** 
 4. **Report bugs** with detailed information
 
 
