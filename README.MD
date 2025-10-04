@@ -107,26 +107,6 @@ A modern, user-friendly radio streaming application that lets you listen to thou
 
 ---
 
-## 🔒 Digital Signature Verification
-
-For security, verify the digital signature of `radio.exe`:
-
-1. **Right-click** on `radio.exe`
-2. Select **Properties**
-3. Go to **Digital Signatures** tab
-4. Click the timestamp date **Thursday**
-5. Click **Details**
-6. Click **View Certificate**
-7. Click **Install Certificate**
-8. Select **Current User**, click **Next**
-9. Choose **Place All Certificates In The Following Store**
-10. Click **Browse**
-11. Select **Trusted Root Certification Authorities**
-12. Click **OK**, then **Finish**
-13. Verify the signature shows as **OK**
-
----
-
 ## 🎯 Features
 
 ### 🎵 Audio Playback
@@ -205,9 +185,9 @@ For security, verify the digital signature of `radio.exe`:
 
 ### System Requirements
 
-- **OS**: Windows 10/11 (64-bit recommended)
-- **RAM**: 4GB minimum, 8GB recommended
-- **Storage**: 4GB free space
+- **OS**: Windows 11 (64-bit recommended)
+- **RAM**: 4GB minimum, 16GB recommended
+- **Storage**: 8GB free space
 - **Network**: Internet connection required
 - **Audio**: Built-in audio or headphones/speakers
 
@@ -226,20 +206,20 @@ When reporting problems, include:
 - if `API` is down radio will `fallback` to `temp` stations. 
 - when `API` is back online everything will return back to normal `FULLY FUNCTIONAL`
 
-
+- [Trouble Shooting Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/TroubleShooting.MD)
 ---
 
 ## 📝 License
 
-This software is provided under the MIT License. See the License menu in the application for full terms.
-
+- **PRIVATE LICENSE**
+```
 ### Terms Summary
 - ✅ Free to use for personal purposes
 - ✅ No data collection or tracking
 - ✅ Local processing only
 - ⚠️ Use at your own risk
 - ⚠️ Comply with local laws and regulations
-
+```
 ---
 
 ## 🎵 Enjoy Your Music!
