@@ -7,7 +7,7 @@
 3. **Check the troubleshooting.md** 
 4. **Report bugs** with detailed information
 
-
+---
 
 ### Reporting Issues
 
