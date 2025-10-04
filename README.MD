@@ -1,6 +1,6 @@
 # 🎵 Radio Player Pro
 
-![Radio Player Pro](https://img.shields.io/badge/Radio%20Player%20Pro-v1.2.7-blue?style=for-the-badge&logo=music)
+![Radio Player Pro](https://img.shields.io/badge/Radio%20Player%20Pro-v1.2.9-blue?style=for-the-badge&logo=music)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-STRICT-green?style=for-the-badge)
 
@@ -232,7 +232,7 @@ For security, verify the digital signature of `radio.exe`:
 ## 👥 Community
 
 ### Join Our Discord
-- **Discord Server**: [discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+- **Discord Server**: [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
 - **Features**: 
   - Get help and support
   - Share favorite stations
@@ -303,7 +303,7 @@ Radio Player Pro brings the world's radio stations to your fingertips. Whether y
 
 ---
 
-*Developed by TEAMFNB420 | Version 1.2 | 2025*
+*Developed by TEAMFNB420 | Version 1.2.9 | 2025*
 
 ---
 
