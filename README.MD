@@ -172,14 +172,17 @@ A modern, user-friendly radio streaming application that lets you listen to thou
 - Share station recommendations
 - Help other users
 
+## Document Support
+- [Trouble Shooting Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/TroubleShooting.MD)
+- [Support Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/Support.MD)
+- [System Requirements Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/SystemRequirements.MD)
+
 ---
 
 ## ***NOTE***
 - if `API` is down radio will `fallback` to `temp` stations. 
 - when `API` is back online everything will return back to normal `FULLY FUNCTIONAL`
 
-- [Trouble Shooting Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/TroubleShooting.MD)
-- [Support Docs](https://github.com/KernFerm/Radio-Player-Pro/blob/main/Support.MD)
 ---
 
 ## 📝 License
