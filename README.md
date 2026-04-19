@@ -29,7 +29,7 @@ Radio Player Pro is a Windows desktop app for browsing, searching, and streaming
 
 ## Installation
 
-1. Download the latest Windows installer from the [Releases](https://github.com/KernFerm/Radio-Player-Pro/releases) page.
+1. Download the latest Windows installer from the [Releases](https://github.com/KernFerm/Radio-Player-Pro/releases/tag/V0033-Security-Update-Radio-Player-Pro) page.
 2. If you already have an older version installed, uninstall the old version first.
 3. Run the installer.
 4. Accept the license, choose the install folder, and complete setup.
