@@ -6,7 +6,8 @@
 ![Streaming](https://img.shields.io/badge/radio-live%20streaming-0a7f5a?style=for-the-badge)
 ![Support](https://img.shields.io/badge/support-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-Version: 0.0.32
+Version: 0.0.33
+> Security Update - Dependency Update
 
 Radio Player Pro is a Windows desktop app for browsing, searching, and streaming internet radio stations with favorites, local settings, and a desktop-friendly player experience.
 
