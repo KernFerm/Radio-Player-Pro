@@ -1,6 +1,6 @@
 # Radio Player Pro
 
-![Version](https://img.shields.io/badge/version-0.0.32-1f6feb?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.0.33-1f6feb?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![Installer](https://img.shields.io/badge/installer-NSIS-4a154b?style=for-the-badge)
 ![Streaming](https://img.shields.io/badge/radio-live%20streaming-0a7f5a?style=for-the-badge)
@@ -38,7 +38,7 @@ Radio Player Pro is a Windows desktop app for browsing, searching, and streaming
 
 ## Updating From An Older Version
 
-- 🔄 Uninstall the older installed version before installing `v0.0.32`.
+- 🔄 Uninstall the older installed version before installing `v0.0.33`.
 - 🧹 This helps avoid old shortcuts, stale install paths, or leftover files being reused.
 - 🚀 If Windows still shows an old shortcut after uninstall, restart Windows and launch the new version from the fresh install path.
 
