@@ -1,3 +1,6 @@
+## v0.0.60
+- Dependency update
+
 ## v0.0.45
 - Dependency update
 
