@@ -1,3 +1,8 @@
+## v0.0.95
+- Updated release documentation for the `v0.0.95` Windows setup EXE.
+- Patched transitive build dependency vulnerabilities reported by `npm audit`.
+- Refreshed dependency lockfile versions for `brace-expansion`, `fast-uri`, `js-yaml`, `minimatch`, and `undici`.
+
 ## v0.0.85
 - Updated the Windows release notes for end users.
 - Updated setup and usage instructions for the `v0.0.85` EXE.
