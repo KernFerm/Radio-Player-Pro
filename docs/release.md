@@ -1,4 +1,4 @@
-# Radio Player Pro v0.0.85
+# Radio Player Pro v0.0.95
 
 Radio Player Pro is a Windows app for listening to internet radio stations from your desktop. You can search for stations, save favorites, and keep playback handy with the mini player and tray icon.
 
@@ -10,7 +10,7 @@ Radio Player Pro is a Windows app for listening to internet radio stations from 
 
 ## How To Install
 
-1. Download the Windows setup file for `v0.0.85`.
+1. Download the Windows setup file for `v0.0.95`.
 2. Double-click the setup EXE.
 3. Read and accept the license.
 4. Choose where you want Radio Player Pro installed.
@@ -39,14 +39,14 @@ Radio Player Pro is a Windows app for listening to internet radio stations from 
 
 1. Close Radio Player Pro.
 2. Uninstall the old version from Windows Settings or Control Panel.
-3. Install `v0.0.85` using the new setup EXE.
+3. Install `v0.0.95` using the new setup EXE.
 4. Open the app normally.
 
 Your saved favorites and app settings are kept in your Windows user profile.
 
 ## If Windows Shows A Warning
 
-Windows may show a safety prompt for downloaded apps. Make sure the file is the Radio Player Pro `v0.0.85` setup EXE you intended to download, then choose the option to run it.
+Windows may show a safety prompt for downloaded apps. Make sure the file is the Radio Player Pro `v0.0.95` setup EXE you intended to download, then choose the option to run it.
 
 ## Need Help?
 
