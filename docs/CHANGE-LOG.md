@@ -1,3 +1,8 @@
+## v1.0.5
+- Updated the Windows release documentation for `v1.0.5`.
+- Patched transitive build dependency vulnerabilities reported by `npm audit`.
+- Updated dependency overrides for `@electron/get`, `brace-expansion`, and `http-cache-semantics`.
+
 ## v0.0.95
 - Updated release documentation for the `v0.0.95` Windows setup EXE.
 - Patched transitive build dependency vulnerabilities reported by `npm audit`.
