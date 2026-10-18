@@ -1,6 +1,6 @@
 # Radio Player Pro
 
-Version: 0.0.95
+Version: 1.0.5
 
 Radio Player Pro is a Windows desktop app for browsing, searching, and listening to internet radio stations.
 
@@ -28,7 +28,7 @@ Radio Player Pro is a Windows desktop app for browsing, searching, and listening
 
 1. Close Radio Player Pro.
 2. Uninstall the old version.
-3. Run the new `v0.0.95` setup EXE.
+3. Run the new `v1.0.5` setup EXE.
 4. Open the app normally.
 
 Your favorites and app settings are saved in your Windows user profile and should still be available after updating.
